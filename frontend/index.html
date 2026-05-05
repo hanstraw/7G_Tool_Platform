@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>7G 工具平台</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand">
+        <div class="logo">7G</div>
+        <div>
+          <h1>工具平台</h1>
+          <p>脚本工具统一管理与运行中心</p>
+        </div>
+      </div>
+      <div class="top-actions">
+        <button id="envConfigBtn" class="badge badge-btn">环境：DEV</button>
+        <button id="importPluginBtn" class="btn btn-primary">导入插件</button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="sidebar card">
+        <h2>工具分组</h2>
+        <ul id="groupList"></ul>
+      </aside>
+
+      <section class="content">
+        <div class="card toolbar">
+          <input id="searchInput" type="text" placeholder="搜索工具名/标签，例如：标注、清洗、YOLO" />
+          <select id="statusFilter">
+            <option value="all">全部状态</option>
+            <option value="ready">可用</option>
+            <option value="draft">草稿</option>
+            <option value="offline">停用</option>
+          </select>
+        </div>
+
+        <div id="toolGrid" class="tool-grid"></div>
+      </section>
+
+      <aside class="right-panel">
+        <div class="card">
+          <h2>运行队列</h2>
+          <ul id="queueList" class="list"></ul>
+        </div>
+        <div class="card">
+          <h2>最近执行</h2>
+          <ul id="historyList" class="list"></ul>
+        </div>
+      </aside>
+    </main>
+  </div>
+
+  <dialog id="detailDialog">
+    <article>
+      <h3 id="detailTitle"></h3>
+      <pre id="detailDesc" class="doc-block"></pre>
+      <p id="detailMeta" class="muted"></p>
+      <form method="dialog">
+        <button class="btn btn-primary">关闭</button>
+      </form>
+    </article>
+  </dialog>
+
+  <dialog id="runDialog">
+    <article>
+      <h3 id="runDialogTitle">运行工具</h3>
+      <form id="runForm" class="env-form">
+        <div id="runFormFields"></div>
+        <div class="env-form-actions">
+          <button type="button" id="cancelRunBtn" class="btn">取消</button>
+          <button type="submit" class="btn btn-primary">开始执行</button>
+        </div>
+      </form>
+    </article>
+  </dialog>
+
+  <dialog id="resultDialog">
+    <article>
+      <h3 id="resultDialogTitle">执行结果</h3>
+      <p id="resultStatusLine" class="muted" style="margin: 8px 0;"></p>
+      <p style="margin: 0 0 6px; font-size: 13px; color: var(--muted);">标准输出</p>
+      <pre id="resultStdout" class="result-output doc-block"></pre>
+      <div id="resultStderrBlock" style="display: none;">
+        <p style="margin: 12px 0 6px; font-size: 13px; color: var(--muted);">错误输出</p>
+        <pre id="resultStderr" class="result-output doc-block stderr-block"></pre>
+      </div>
+      <div id="resultArtifactsBlock" style="display: none; margin-top: 12px;">
+        <p style="margin: 0 0 6px; font-size: 13px; color: var(--muted);">报告文件</p>
+        <ul id="resultArtifactsList" class="list"></ul>
+      </div>
+      <p id="resultMetaLine" class="muted" style="margin-top: 10px; font-size: 12px;"></p>
+      <div class="env-form-actions">
+        <button type="button" id="copyResultBtn" class="btn">复制输出</button>
+        <form method="dialog" style="display: inline;">
+          <button class="btn btn-primary">关闭</button>
+        </form>
+      </div>
+    </article>
+  </dialog>
+
+  <dialog id="importDialog">
+    <article>
+      <h3>导入插件</h3>
+      <form id="importForm" class="env-form">
+        <label>
+          导入方式
+          <select id="importType" required>
+            <option value="local">本地目录</option>
+            <option value="zip">ZIP 文件</option>
+            <option value="git">Git 仓库</option>
+          </select>
+        </label>
+
+        <label id="importLocalPathRow">
+          本地目录路径
+          <input id="importLocalPath" type="text" placeholder="D:\\tools\\my_plugin" />
+        </label>
+
+        <label id="importZipPathRow" style="display:none;">
+          ZIP 文件路径
+          <input id="importZipPath" type="text" placeholder="D:\\tools\\my_plugin.zip" />
+        </label>
+
+        <label id="importGitRepoRow" style="display:none;">
+          Git 仓库地址
+          <input id="importGitRepo" type="text" placeholder="https://github.com/xxx/your-plugin.git" />
+        </label>
+
+        <label id="importGitRefRow" style="display:none;">
+          分支/Tag（可选）
+          <input id="importGitRef" type="text" placeholder="main" />
+        </label>
+
+        <label>
+          <input id="importOverwrite" type="checkbox" />
+          允许覆盖同名插件
+        </label>
+        <label>
+          <input id="importRunInstall" type="checkbox" checked />
+          导入后自动安装依赖
+        </label>
+
+        <div class="env-form-actions">
+          <button type="button" id="cancelImportBtn" class="btn">取消</button>
+          <button type="submit" class="btn btn-primary">开始导入</button>
+        </div>
+      </form>
+    </article>
+  </dialog>
+
+  <dialog id="envDialog">
+    <article>
+      <h3>环境配置</h3>
+      <form id="envForm" class="env-form">
+        <label>
+          环境名称
+          <select id="envName" required>
+            <option value="DEV">DEV</option>
+            <option value="TEST">TEST</option>
+            <option value="PROD">PROD</option>
+          </select>
+        </label>
+
+        <label>
+          LabelU 地址
+          <input id="labeluUrl" type="url" placeholder="http://127.0.0.1:8080" required />
+        </label>
+        <label>
+          LabelU 账号
+          <input id="labeluUser" type="text" placeholder="请输入账号" required />
+        </label>
+        <label>
+          LabelU 密码
+          <input id="labeluPassword" type="password" placeholder="请输入密码" required />
+        </label>
+
+        <label>
+          训练机 SSH 地址
+          <input id="sshHost" type="text" placeholder="192.168.1.100:22" required />
+        </label>
+        <label>
+          SSH 账号
+          <input id="sshUser" type="text" placeholder="root" required />
+        </label>
+        <label>
+          SSH 密码
+          <input id="sshPassword" type="password" placeholder="请输入密码" required />
+        </label>
+
+        <div class="env-form-actions">
+          <button type="button" id="cancelEnvBtn" class="btn">取消</button>
+          <button type="submit" class="btn btn-primary">保存配置</button>
+        </div>
+      </form>
+    </article>
+  </dialog>
+
+  <script src="./app.js"></script>
+</body>
+</html>

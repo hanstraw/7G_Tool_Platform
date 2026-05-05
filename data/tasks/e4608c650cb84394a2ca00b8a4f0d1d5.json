@@ -1,0 +1,20 @@
+{
+  "taskId": "e4608c650cb84394a2ca00b8a4f0d1d5",
+  "toolId": "filter-copy-no-thumbnail",
+  "toolName": "复制文件（跳过缩略图）",
+  "status": "success",
+  "params": {
+    "source_dir": "./demo_source",
+    "target_dir": "./demo_output"
+  },
+  "createdAt": "2026-05-01 22:51:52",
+  "updatedAt": "2026-05-01 22:51:52",
+  "returnCode": 0,
+  "stdout": "已复制: sample.txt\n\n完成 — 复制: 1 个, 跳过: 0 个\n",
+  "stderr": "",
+  "command": "D:\\Python311\\python.exe D:\\PycharmProjects\\MY-Project\\7G_Tool_Platform\\data\\plugins\\filter-copy-no-thumbnail\\main.py --source-dir ./demo_source --target-dir ./demo_output",
+  "logFile": "20260501_225152_filter-copy-no-thumbnail_e4608c65.log",
+  "startedAt": "2026-05-01 22:51:52",
+  "endedAt": "2026-05-01 22:51:52",
+  "artifacts": []
+}

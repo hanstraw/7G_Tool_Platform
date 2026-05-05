@@ -1,0 +1,18 @@
+[START] 2026-04-28 18:50:49
+[END] 2026-04-28 18:50:49
+[TOOL] labelu-task-create
+[RETURN_CODE] 2
+[PARAMS] {"base_url": "http://113.141.72.253:38000", "username": "dengguojun@gmail.com", "password": "dengguojun", "task_name": "测试", "media_type": "IMAGE", "insecure": "true", "login_path": "/api/v1/users/login", "create_task_path": "/api/v1/tasks", "extra_json": "{\"global_tags\":{\"sceneType\":[\"urbanArterial\",\"residentialRoad\",\"backAlley\",\"parkSquare\",\"commercialStreet\",\"urbanVillage\",\"schoolArea\",\"constructionSite\"],\"lighting\":[\"normalDaylight\",\"strongDaylight\",\"weakDaylight\",\"dusk\",\"nightWithLight\",\"nightNoLight\",\"backlight\",\"heavyShadow\"],\"weather\":[\"sunny\",\"cloudy\",\"lightRain\",\"heavyRain\",\"foggy\",\"snowy\",\"dust\"],\"quality\":[\"clear\",\"slightBlurry\",\"severeBlurry\",\"overexposed\",\"underexposed\",\"occluded\",\"motionBlur\"],\"angle\":[\"eyeLevel\",\"topView\",\"lowAngle\",\"obliqueView\",\"aerialView\"],\"source\":[\"cameraCapture\",\"manualShoot\",\"webCollect\",\"syntheticData\"]},\"labels\":[]}", "upload_images": "C:\\fakepath\\IMG_20251225_222706.jpg"}
+[COMMAND] D:\Python311\python.exe D:\PycharmProjects\MY-Project\7G_Tool_Platform\backend\tools\labelu_task_create.py --input-json  --output-dir  --folder images
+[STDOUT]
+
+[STDERR]
+usage: labelu_task_create.py [-h] --base-url BASE_URL --username USERNAME
+                             --password PASSWORD --task-name TASK_NAME
+                             [--media-type MEDIA_TYPE]
+                             [--login-path LOGIN_PATH]
+                             [--create-task-path CREATE_TASK_PATH]
+                             [--insecure INSECURE] [--extra-json EXTRA_JSON]
+                             [--upload-images UPLOAD_IMAGES]
+labelu_task_create.py: error: the following arguments are required: --base-url, --username, --password, --task-name
+

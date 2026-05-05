@@ -1,0 +1,21 @@
+{
+  "taskId": "b986fd0388154c39b13be9aed8c62422",
+  "toolId": "cn-name-to-en-project",
+  "toolName": "中文名称转英文项目名",
+  "status": "failed",
+  "params": {
+    "cn_name": "电动车未戴头盔",
+    "prefix": "",
+    "separator": "-",
+    "max_len": "48"
+  },
+  "createdAt": "2026-04-30 18:16:41",
+  "updatedAt": "2026-04-30 18:16:41",
+  "returnCode": 1,
+  "stdout": "",
+  "stderr": "Traceback (most recent call last):\n  File \"D:\\PycharmProjects\\MY-Project\\7G_Tool_Platform\\data\\plugins\\cn-name-to-en-project\\main.py\", line 5, in <module>\n    from pypinyin import lazy_pinyin\nModuleNotFoundError: No module named 'pypinyin'\n",
+  "command": "D:\\PycharmProjects\\MY-Project\\.venv\\Scripts\\python.exe D:\\PycharmProjects\\MY-Project\\7G_Tool_Platform\\data\\plugins\\cn-name-to-en-project\\main.py --cn-name 电动车未戴头盔 --separator - --max-len 48",
+  "logFile": "20260430_181641_cn-name-to-en-project_b986fd03.log",
+  "startedAt": "2026-04-30 18:16:41",
+  "endedAt": "2026-04-30 18:16:41"
+}

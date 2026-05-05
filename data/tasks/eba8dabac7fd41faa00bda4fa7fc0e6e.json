@@ -1,0 +1,23 @@
+{
+  "taskId": "eba8dabac7fd41faa00bda4fa7fc0e6e",
+  "toolId": "voc-xml-invalid-size",
+  "toolName": "VOC XML 无效尺寸清理",
+  "status": "success",
+  "params": {
+    "xml_dir": "./demo_xml",
+    "mode": "delete",
+    "dry_run": "true",
+    "backup_dir": "",
+    "log_path": ""
+  },
+  "createdAt": "2026-05-01 22:53:05",
+  "updatedAt": "2026-05-01 22:53:05",
+  "returnCode": 0,
+  "stdout": "\n检查完成\nXML总数: 1\n尺寸异常(width<=0 or height<=0): 0\n当前为 dry-run，仅预览，未实际删除/移动\n解析/结构异常: 0\n",
+  "stderr": "",
+  "command": "D:\\Python311\\python.exe D:\\PycharmProjects\\MY-Project\\7G_Tool_Platform\\data\\plugins\\voc-xml-invalid-size\\main.py --xml-dir ./demo_xml --mode delete --dry-run",
+  "logFile": "20260501_225305_voc-xml-invalid-size_eba8daba.log",
+  "startedAt": "2026-05-01 22:53:05",
+  "endedAt": "2026-05-01 22:53:05",
+  "artifacts": []
+}

@@ -1,0 +1,114 @@
+{
+  "tools": [
+    {
+      "id": "labelu-json-to-voc-xml",
+      "name": "LabelU JSON 转 VOC XML",
+      "group": "标注转换",
+      "status": "ready",
+      "desc": "将 LabelU 导出的 JSON 转换为 VOC XML 标注文件。",
+      "usage": "1. 点击“运行工具”。\n2. input_json 填 LabelU 导出的 JSON 全路径，例如：E:\\7G\\AI\\roadsideillegalvending\\占道经营.json。\n3. output_dir 填 XML 输出目录，例如：E:\\7G\\AI\\roadsideillegalvending\\dengguojuntest。\n4. folder 默认 images，一般不需要修改。\n5. 点击“开始执行”，成功后在 output_dir 下查看生成的 XML 文件，并可在右侧查看执行日志文件名。",
+      "tags": ["LabelU", "VOC", "XML", "标注"],
+      "updatedAt": "2026-04-27",
+      "entry": "7G_Tool_Platform/backend/tools/labelu_json_to_voc_xml.py",
+      "params": [
+        {
+          "key": "input_json",
+          "label": "输入 JSON 文件路径",
+          "type": "string",
+          "required": true
+        },
+        {
+          "key": "output_dir",
+          "label": "输出 XML 目录路径",
+          "type": "string",
+          "required": true
+        },
+        {
+          "key": "folder",
+          "label": "VOC <folder> 字段",
+          "type": "string",
+          "required": false,
+          "default": "images"
+        }
+      ]
+    },
+    {
+      "id": "labelu-task-create",
+      "name": "LabelU任务创建",
+      "group": "标注平台",
+      "status": "ready",
+      "desc": "登录 LabelU，创建任务并可选上传图片。",
+      "usage": "1. 点击“运行工具”。\n2. base_url 填 LabelU 地址，如 http://113.141.72.253:38000。\n3. username/password 填登录账号密码。\n4. task_name 填新任务名称。\n5. media_type 默认 IMAGE。\n6. 如需上传图片，upload_images 填图片绝对路径，可用逗号/分号/换行分隔多张。\n7. insecure 默认 true（HTTPS 证书不规范时建议 true）。\n8. 点击“开始执行”，右侧查看创建与上传日志。",
+      "tags": ["LabelU", "任务", "创建", "登录"],
+      "updatedAt": "2026-04-27",
+      "entry": "7G_Tool_Platform/backend/tools/labelu_task_create.py",
+      "params": [
+        {
+          "key": "base_url",
+          "label": "LabelU 地址",
+          "type": "string",
+          "required": true,
+          "default": "http://113.141.72.253:38000"
+        },
+        {
+          "key": "username",
+          "label": "登录账号",
+          "type": "string",
+          "required": true
+        },
+        {
+          "key": "password",
+          "label": "登录密码",
+          "type": "string",
+          "required": true
+        },
+        {
+          "key": "task_name",
+          "label": "任务名称",
+          "type": "string",
+          "required": true
+        },
+        {
+          "key": "media_type",
+          "label": "媒体类型",
+          "type": "string",
+          "required": false,
+          "default": "IMAGE"
+        },
+        {
+          "key": "insecure",
+          "label": "跳过 HTTPS 校验(true/false)",
+          "type": "string",
+          "required": false,
+          "default": "true"
+        },
+        {
+          "key": "login_path",
+          "label": "登录接口路径",
+          "type": "string",
+          "required": false,
+          "default": "/api/v1/users/login"
+        },
+        {
+          "key": "create_task_path",
+          "label": "创建任务接口路径",
+          "type": "string",
+          "required": false,
+          "default": "/api/v1/tasks"
+        },
+        {
+          "key": "extra_json",
+          "label": "额外任务字段(JSON对象字符串)",
+          "type": "string",
+          "required": false
+        },
+        {
+          "key": "upload_images",
+          "label": "上传图片路径列表(逗号/分号/换行分隔)",
+          "type": "string",
+          "required": false
+        }
+      ]
+    }
+  ]
+}

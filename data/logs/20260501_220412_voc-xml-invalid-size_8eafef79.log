@@ -1,0 +1,16 @@
+[START] 2026-05-01 22:04:12
+[END] 2026-05-01 22:04:12
+[TOOL] voc-xml-invalid-size
+[RETURN_CODE] 0
+[PARAMS] {"xml_dir": "./demo_xml", "mode": "delete", "dry_run": "true", "backup_dir": "", "log_path": ""}
+[COMMAND] D:\Python311\python.exe D:\PycharmProjects\MY-Project\7G_Tool_Platform\data\plugins\voc-xml-invalid-size\main.py --xml-dir ./demo_xml --mode delete --dry-run
+[STDOUT]
+
+检查完成
+XML总数: 1
+尺寸异常(width<=0 or height<=0): 0
+当前为 dry-run，仅预览，未实际删除/移动
+解析/结构异常: 0
+
+[STDERR]
+

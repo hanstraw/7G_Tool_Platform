@@ -1,0 +1,11 @@
+[START] 2026-05-01 12:17:13
+[END] 2026-05-01 12:17:13
+[TOOL] cn-name-to-en-project
+[RETURN_CODE] 0
+[PARAMS] {"cn_name": "电动车未戴头盔", "prefix": "", "separator": "-", "max_len": "48"}
+[COMMAND] D:\PycharmProjects\MY-Project\.venv\Scripts\python.exe D:\PycharmProjects\MY-Project\7G_Tool_Platform\data\plugins\cn-name-to-en-project\main.py --cn-name 电动车未戴头盔 --separator - --max-len 48
+[STDOUT]
+electric-bike-no-wear-helmet
+
+[STDERR]
+

@@ -1,0 +1,11 @@
+[START] 2026-05-01 22:51:50
+[END] 2026-05-01 22:51:50
+[TOOL] cn-name-to-en-project
+[RETURN_CODE] 0
+[PARAMS] {"cn_name": "道路占道经营检测", "prefix": "", "separator": "-", "max_len": "48"}
+[COMMAND] D:\Python311\python.exe D:\PycharmProjects\MY-Project\7G_Tool_Platform\data\plugins\cn-name-to-en-project\main.py --cn-name 道路占道经营检测 --separator - --max-len 48
+[STDOUT]
+road-occupation-business-detection
+
+[STDERR]
+

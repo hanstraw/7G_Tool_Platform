@@ -1,0 +1,21 @@
+{
+  "taskId": "e59590400e9f43a0ae419704ea50699b",
+  "toolId": "cn-name-to-en-project",
+  "toolName": "中文名称转英文项目名",
+  "status": "success",
+  "params": {
+    "cn_name": "电动车未戴头盔",
+    "prefix": "",
+    "separator": "-",
+    "max_len": "48"
+  },
+  "createdAt": "2026-05-01 12:15:10",
+  "updatedAt": "2026-05-01 12:15:11",
+  "returnCode": 0,
+  "stdout": "electric-bike-no-wear-helmet\n",
+  "stderr": "",
+  "command": "D:\\PycharmProjects\\MY-Project\\.venv\\Scripts\\python.exe D:\\PycharmProjects\\MY-Project\\7G_Tool_Platform\\data\\plugins\\cn-name-to-en-project\\main.py --cn-name 电动车未戴头盔 --separator - --max-len 48",
+  "logFile": "20260501_121510_cn-name-to-en-project_e5959040.log",
+  "startedAt": "2026-05-01 12:15:10",
+  "endedAt": "2026-05-01 12:15:11"
+}

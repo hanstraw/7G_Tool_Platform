@@ -1,0 +1,29 @@
+{
+  "taskId": "845171899eda4eb186a44e7bf6b6c7c4",
+  "toolId": "labelu-task-create",
+  "toolName": "LabelU 任务创建",
+  "status": "success",
+  "params": {
+    "base_url": "http://127.0.0.1:8080",
+    "username": "demo_user",
+    "password": "demo_password",
+    "task_name": "demo-task",
+    "media_type": "IMAGE",
+    "insecure": "true",
+    "dry_run": "true",
+    "login_path": "/api/v1/users/login",
+    "create_task_path": "/api/v1/tasks",
+    "extra_json": "",
+    "upload_images": ""
+  },
+  "createdAt": "2026-05-01 22:04:10",
+  "updatedAt": "2026-05-01 22:04:10",
+  "returnCode": 0,
+  "stdout": "dry-run 模式：不发请求，只校验参数。\n{\n  \"base_url\": \"http://127.0.0.1:8080\",\n  \"username\": \"demo_user\",\n  \"task_name\": \"demo-task\",\n  \"media_type\": \"IMAGE\",\n  \"insecure\": true,\n  \"login_path\": \"/api/v1/users/login\",\n  \"create_task_path\": \"/api/v1/tasks\",\n  \"upload_images_count\": 0\n}\n",
+  "stderr": "",
+  "command": "D:\\Python311\\python.exe D:\\PycharmProjects\\MY-Project\\7G_Tool_Platform\\data\\plugins\\labelu-task-create\\main.py --base-url http://127.0.0.1:8080 --username demo_user --password demo_password --task-name demo-task --media-type IMAGE --insecure --dry-run --login-path /api/v1/users/login --create-task-path /api/v1/tasks",
+  "logFile": "20260501_220410_labelu-task-create_84517189.log",
+  "startedAt": "2026-05-01 22:04:10",
+  "endedAt": "2026-05-01 22:04:10",
+  "artifacts": []
+}

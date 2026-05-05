@@ -1,0 +1,18 @@
+{
+  "current": "DEV",
+  "items": [
+    {
+      "name": "DEV",
+      "labelu": {
+        "url": "",
+        "username": "",
+        "password": ""
+      },
+      "ssh": {
+        "host": "",
+        "username": "",
+        "password": ""
+      }
+    }
+  ]
+}

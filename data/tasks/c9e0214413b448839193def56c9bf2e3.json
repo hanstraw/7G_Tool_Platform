@@ -1,0 +1,22 @@
+{
+  "taskId": "c9e0214413b448839193def56c9bf2e3",
+  "toolId": "cn-name-to-en-project",
+  "toolName": "中文名称转英文项目名",
+  "status": "success",
+  "params": {
+    "cn_name": "道路占道经营检测",
+    "prefix": "",
+    "separator": "-",
+    "max_len": "48"
+  },
+  "createdAt": "2026-05-01 22:51:50",
+  "updatedAt": "2026-05-01 22:51:50",
+  "returnCode": 0,
+  "stdout": "road-occupation-business-detection\n",
+  "stderr": "",
+  "command": "D:\\Python311\\python.exe D:\\PycharmProjects\\MY-Project\\7G_Tool_Platform\\data\\plugins\\cn-name-to-en-project\\main.py --cn-name 道路占道经营检测 --separator - --max-len 48",
+  "logFile": "20260501_225150_cn-name-to-en-project_c9e02144.log",
+  "startedAt": "2026-05-01 22:51:50",
+  "endedAt": "2026-05-01 22:51:50",
+  "artifacts": []
+}

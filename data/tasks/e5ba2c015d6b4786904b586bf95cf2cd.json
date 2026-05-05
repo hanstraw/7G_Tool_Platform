@@ -1,0 +1,25 @@
+{
+  "taskId": "e5ba2c015d6b4786904b586bf95cf2cd",
+  "toolId": "voc-labelu-convert",
+  "toolName": "VOC 与 LabelU 标注互转",
+  "status": "success",
+  "params": {
+    "mode": "labelu2voc",
+    "xml_dir": "./demo_xml",
+    "output_json": "./demo_output.json",
+    "base_url": "/api/v1/tasks/attachment/upload/1",
+    "input_json": "./demo_labelu.json",
+    "output_dir": "./demo_output",
+    "folder": "images"
+  },
+  "createdAt": "2026-05-01 22:04:11",
+  "updatedAt": "2026-05-01 22:04:11",
+  "returnCode": 0,
+  "stdout": "Converted 0 LabelU records → VOC XML in ./demo_output\n",
+  "stderr": "",
+  "command": "D:\\Python311\\python.exe D:\\PycharmProjects\\MY-Project\\7G_Tool_Platform\\data\\plugins\\voc-labelu-convert\\main.py --mode labelu2voc --xml-dir ./demo_xml --output-json ./demo_output.json --base-url /api/v1/tasks/attachment/upload/1 --input-json ./demo_labelu.json --output-dir ./demo_output --folder images",
+  "logFile": "20260501_220411_voc-labelu-convert_e5ba2c01.log",
+  "startedAt": "2026-05-01 22:04:11",
+  "endedAt": "2026-05-01 22:04:11",
+  "artifacts": []
+}

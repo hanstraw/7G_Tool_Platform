@@ -1,0 +1,26 @@
+{
+  "taskId": "ae2c44ed6c6e4f3bbff1cd6bf68e400a",
+  "toolId": "voc-xml-add-global-attrs",
+  "toolName": "VOC XML 写入全局属性",
+  "status": "success",
+  "params": {
+    "xml": "./demo.xml",
+    "scene_type": "urbanArterial",
+    "lighting": "normalDaylight",
+    "weather": "sunny",
+    "quality": "clear",
+    "angle": "eyeLevel",
+    "source": "cameraCapture",
+    "image": ""
+  },
+  "createdAt": "2026-05-01 22:04:11",
+  "updatedAt": "2026-05-01 22:04:12",
+  "returnCode": 0,
+  "stdout": "已写入全局属性: demo.xml\n",
+  "stderr": "",
+  "command": "D:\\Python311\\python.exe D:\\PycharmProjects\\MY-Project\\7G_Tool_Platform\\data\\plugins\\voc-xml-add-global-attrs\\main.py --xml ./demo.xml --scene-type urbanArterial --lighting normalDaylight --weather sunny --quality clear --angle eyeLevel --source cameraCapture",
+  "logFile": "20260501_220411_voc-xml-add-global-attrs_ae2c44ed.log",
+  "startedAt": "2026-05-01 22:04:11",
+  "endedAt": "2026-05-01 22:04:12",
+  "artifacts": []
+}
