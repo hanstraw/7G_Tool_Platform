@@ -70,4 +70,5 @@ python backend/main.py
 
 ## 相关文档
 
+- 项目全量现状说明：`docs/PROJECT_FULL_STATUS.md`
 - 插件编写规范：`docs/PLUGIN_AUTHORING.md`
