@@ -9,13 +9,14 @@ ROOT = Path(__file__).resolve().parent
 BACKEND_DIR = ROOT / "backend"
 FRONTEND_DIR = ROOT / "frontend"
 
-BACKEND_URL = "http://192.168.54.120:8787/api/health"
-FRONTEND_URL = "http://127.0.0.1:5500"
+HOST = "192.168.54.120"
+BACKEND_URL = f"http://{HOST}:8787/api/health"
+FRONTEND_URL = f"http://{HOST}:5500"
 
 
 def main():
     backend_cmd = [sys.executable, "main.py"]
-    frontend_cmd = [sys.executable, "-m", "http.server", "5500", "--bind", "127.0.0.1"]
+    frontend_cmd = [sys.executable, "-m", "http.server", "5500", "--bind", "0.0.0.0"]
 
     backend_proc = subprocess.Popen(backend_cmd, cwd=str(BACKEND_DIR))
     frontend_proc = subprocess.Popen(frontend_cmd, cwd=str(FRONTEND_DIR))
