@@ -4,9 +4,12 @@
 
 ## 工程结构
 
+- `docs/`: 项目文档与规范说明
 - `frontend/`: 前端页面（当前已完成 MVP 原型）
 - `backend/`: 后端服务（当前为接口骨架）
-- `data/`: 平台数据层（配置、任务、日志、产物、数据库文件）
+- `data/`: 平台数据层（配置、插件、任务、日志、产物、数据库文件）
+
+根目录只保留入口脚本、核心源码和说明文档；运行产物统一写入 `data/`，本地临时文件通过 `.gitignore` 排除。
 
 ## 一键启动（推荐）
 
@@ -64,3 +67,7 @@ python backend/main.py
 ## 数据层说明
 
 已预置 `data/configs/environments.json` 与 `data/configs/tools.json`，后续你新增工具和环境时可直接写入这两个文件，便于平台统一读取。
+
+## 相关文档
+
+- 插件编写规范：`docs/PLUGIN_AUTHORING.md`

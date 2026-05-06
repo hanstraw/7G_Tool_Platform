@@ -1,6 +1,9 @@
-# Local session files
+# Local session and workstation files
+.agents/
 .codex
 frontend/.codex
+.local/
+.archive/
 
 # Python cache
 __pycache__/
@@ -11,9 +14,26 @@ __pycache__/
 nohup.out
 backups/
 
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
 # Runtime output
-data/logs/*.log
-data/logs/nohup_*
-data/tasks/*.json
-data/uploads/
-data/artifacts/
+data/plugins/
+data/plugins/**
+data/logs/**
+data/tasks/**
+data/uploads/**
+data/artifacts/**
+data/reports/**
+data/db/*.db
+data/db/*.sqlite
+data/db/*.sqlite3
+
+# Keep runtime directories in the tree
+!data/logs/.gitkeep
+!data/tasks/.gitkeep
+!data/uploads/.gitkeep
+!data/artifacts/.gitkeep
+!data/reports/.gitkeep
+!data/db/.gitkeep
