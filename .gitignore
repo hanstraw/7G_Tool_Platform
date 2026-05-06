@@ -1,0 +1,19 @@
+# Local session files
+.codex
+frontend/.codex
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Backup and ad-hoc log files
+*.bak
+nohup.out
+backups/
+
+# Runtime output
+data/logs/*.log
+data/logs/nohup_*
+data/tasks/*.json
+data/uploads/
+data/artifacts/
