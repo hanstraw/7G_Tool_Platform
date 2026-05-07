@@ -1,0 +1,2324 @@
+[
+  {
+    "fileName": "zhandao_20251209_085631_175_00000056_20251209_085631_237.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"86kezp0de8o\", \"x\": 702.7, \"y\": 665.58, \"label\": \"streetVendor_catering\", \"width\": 373.16, \"height\": 414.42, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000056_20251209_085631_237.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000084_20251209_085631_251.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000084_20251209_085631_251.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000112_20251209_085631_266.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"1b03k30b5vy\", \"x\": 704.43, \"y\": 656.94, \"label\": \"streetVendor_catering\", \"width\": 361.33, \"height\": 423.06, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000112_20251209_085631_266.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000140_20251209_085631_282.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"itl3kckm7qf\", \"x\": 703.6, \"y\": 659.39, \"label\": \"streetVendor_catering\", \"width\": 365.83, \"height\": 420.61, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000140_20251209_085631_282.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000168_20251209_085631_298.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"swvimj23yni\", \"x\": 701.81, \"y\": 660.38, \"label\": \"streetVendor_catering\", \"width\": 370.5, \"height\": 419.62, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000168_20251209_085631_298.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000196_20251209_085631_314.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"ohfvkv2th1n\", \"x\": 706.71, \"y\": 675.7, \"label\": \"streetVendor_catering\", \"width\": 361.6, \"height\": 404.3, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000196_20251209_085631_314.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000224_20251209_085631_331.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"96wp8bj01de\", \"x\": 709.46, \"y\": 670.73, \"label\": \"streetVendor_catering\", \"width\": 356.49, \"height\": 409.27, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000224_20251209_085631_331.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000252_20251209_085631_348.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000252_20251209_085631_348.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000280_20251209_085631_364.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000280_20251209_085631_364.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000308_20251209_085631_382.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"pey1jzpum90\", \"x\": 717.51, \"y\": 679.64, \"label\": \"streetVendor_catering\", \"width\": 338.14, \"height\": 216.03, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000308_20251209_085631_382.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000336_20251209_085631_397.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"jjn2fxokgif\", \"x\": 719.67, \"y\": 679.51, \"label\": \"streetVendor_catering\", \"width\": 338.05, \"height\": 218.02, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000336_20251209_085631_397.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000364_20251209_085631_412.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"j0av6hjovme\", \"x\": 711.91, \"y\": 671.75, \"label\": \"streetVendor_catering\", \"width\": 359.73, \"height\": 408.25, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000364_20251209_085631_412.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000392_20251209_085631_427.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"qdp5ufnk4bv\", \"x\": 713.0, \"y\": 674.15, \"label\": \"streetVendor_catering\", \"width\": 343.18, \"height\": 405.85, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000392_20251209_085631_427.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000420_20251209_085631_441.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000420_20251209_085631_441.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000448_20251209_085631_455.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"knuvhdy9try\", \"x\": 706.41, \"y\": 669.54, \"label\": \"streetVendor_catering\", \"width\": 413.87, \"height\": 410.46, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000448_20251209_085631_455.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000476_20251209_085631_470.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"bpt7ncs9415\", \"x\": 715.35, \"y\": 672.98, \"label\": \"streetVendor_catering\", \"width\": 397.32, \"height\": 407.02, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000476_20251209_085631_470.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000504_20251209_085631_484.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"accq6hrodk3\", \"x\": 718.45, \"y\": 672.78, \"label\": \"streetVendor_catering\", \"width\": 398.17, \"height\": 407.22, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000504_20251209_085631_484.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000532_20251209_085631_498.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000532_20251209_085631_498.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000616_20251209_085631_551.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000616_20251209_085631_551.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000644_20251209_085631_567.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000644_20251209_085631_567.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000672_20251209_085631_582.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000672_20251209_085631_582.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000700_20251209_085631_598.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000700_20251209_085631_598.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000728_20251209_085631_613.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"jdff0soaqdu\", \"x\": 614.87, \"y\": 655.89, \"label\": \"streetVendor_catering\", \"width\": 485.19, \"height\": 413.74, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000728_20251209_085631_613.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000756_20251209_085631_628.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"4b04pkjjxgm\", \"x\": 616.71, \"y\": 649.08, \"label\": \"streetVendor_catering\", \"width\": 498.66, \"height\": 425.94, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000756_20251209_085631_628.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000784_20251209_085631_643.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000784_20251209_085631_643.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000812_20251209_085631_658.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000812_20251209_085631_658.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000840_20251209_085631_673.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000840_20251209_085631_673.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000868_20251209_085631_688.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000868_20251209_085631_688.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000896_20251209_085631_703.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000896_20251209_085631_703.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000924_20251209_085631_718.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000924_20251209_085631_718.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000952_20251209_085631_733.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000952_20251209_085631_733.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00000980_20251209_085631_747.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00000980_20251209_085631_747.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001008_20251209_085631_762.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001008_20251209_085631_762.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001036_20251209_085631_776.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001036_20251209_085631_776.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001064_20251209_085631_791.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001064_20251209_085631_791.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001092_20251209_085631_806.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001092_20251209_085631_806.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001120_20251209_085631_820.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001120_20251209_085631_820.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001148_20251209_085631_835.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001148_20251209_085631_835.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001176_20251209_085631_850.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001176_20251209_085631_850.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001204_20251209_085631_872.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001204_20251209_085631_872.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001232_20251209_085631_887.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001232_20251209_085631_887.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001260_20251209_085631_902.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001260_20251209_085631_902.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001288_20251209_085631_916.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001288_20251209_085631_916.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001316_20251209_085631_931.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"k38low76rtz\", \"x\": 703.52, \"y\": 678.45, \"label\": \"streetVendor_catering\", \"width\": 370.59, \"height\": 401.55, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001316_20251209_085631_931.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001344_20251209_085631_946.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"i65ba653v6k\", \"x\": 726.72, \"y\": 682.26, \"label\": \"streetVendor_catering\", \"width\": 341.79, \"height\": 211.4, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001344_20251209_085631_946.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001372_20251209_085631_961.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001372_20251209_085631_961.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001400_20251209_085631_975.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"8psmj5vntde\", \"x\": 690.89, \"y\": 679.04, \"label\": \"streetVendor_catering\", \"width\": 373.71, \"height\": 400.96, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001400_20251209_085631_975.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001428_20251209_085631_990.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001428_20251209_085631_990.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001456_20251209_085632_004.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001456_20251209_085632_004.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001484_20251209_085632_019.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"j4q117jnnt9\", \"x\": 728.19, \"y\": 686.47, \"label\": \"streetVendor_catering\", \"width\": 322.61, \"height\": 187.05, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001484_20251209_085632_019.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001512_20251209_085632_040.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"ystrvd66zwq\", \"x\": 701.74, \"y\": 674.42, \"label\": \"streetVendor_catering\", \"width\": 359.63, \"height\": 405.58, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001512_20251209_085632_040.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001540_20251209_085632_055.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001540_20251209_085632_055.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001568_20251209_085632_071.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"mo5ffh0gaop\", \"x\": 717.03, \"y\": 673.72, \"label\": \"streetVendor_catering\", \"width\": 335.43, \"height\": 406.28, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001568_20251209_085632_071.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001596_20251209_085632_086.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"0ca5cq6y9va\", \"x\": 730.14, \"y\": 681.07, \"label\": \"streetVendor_catering\", \"width\": 330.9, \"height\": 205.33, \"order\": 1, \"attributes\": {}}, {\"id\": \"ksgkz4j3z7p\", \"x\": 720.7, \"y\": 674.23, \"label\": \"streetVendor_catering\", \"width\": 338.71, \"height\": 405.77, \"order\": 2, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001596_20251209_085632_086.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001624_20251209_085632_102.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"8ils2w37qws\", \"x\": 729.06, \"y\": 681.99, \"label\": \"streetVendor_catering\", \"width\": 325.76, \"height\": 208.19, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001624_20251209_085632_102.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001652_20251209_085632_117.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"ziszi9r9435\", \"x\": 725.38, \"y\": 679.56, \"label\": \"streetVendor_catering\", \"width\": 347.4, \"height\": 376.59, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001652_20251209_085632_117.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001680_20251209_085632_132.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"331dnk7b5hn\", \"x\": 717.16, \"y\": 675.65, \"label\": \"streetVendor_catering\", \"width\": 358.14, \"height\": 389.6, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001680_20251209_085632_132.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001708_20251209_085632_146.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"b4idvh9m16j\", \"x\": 716.51, \"y\": 675.6, \"label\": \"streetVendor_catering\", \"width\": 358.95, \"height\": 389.38, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001708_20251209_085632_146.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001736_20251209_085632_161.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"2xshwxuqn83\", \"x\": 698.64, \"y\": 679.49, \"label\": \"streetVendor_catering\", \"width\": 372.46, \"height\": 385.65, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001736_20251209_085632_161.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001764_20251209_085632_175.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"hbz4ld37lo7\", \"x\": 695.59, \"y\": 675.78, \"label\": \"streetVendor_catering\", \"width\": 377.68, \"height\": 390.13, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001764_20251209_085632_175.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001792_20251209_085632_190.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"guslbul6mdh\", \"x\": 720.93, \"y\": 678.55, \"label\": \"streetVendor_catering\", \"width\": 347.67, \"height\": 386.4, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001792_20251209_085632_190.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001820_20251209_085632_209.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001820_20251209_085632_209.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001848_20251209_085632_223.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"9e6a6wllnfw\", \"x\": 713.74, \"y\": 661.28, \"label\": \"streetVendor_catering\", \"width\": 348.79, \"height\": 418.72, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001848_20251209_085632_223.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001876_20251209_085632_238.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001876_20251209_085632_238.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001904_20251209_085632_252.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"nxg62wfgwgu\", \"x\": 711.58, \"y\": 667.74, \"label\": \"streetVendor_catering\", \"width\": 361.57, \"height\": 412.26, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001904_20251209_085632_252.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001932_20251209_085632_267.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001932_20251209_085632_267.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001960_20251209_085632_282.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001960_20251209_085632_282.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00001988_20251209_085632_297.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00001988_20251209_085632_297.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002016_20251209_085632_312.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002016_20251209_085632_312.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002044_20251209_085632_327.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002044_20251209_085632_327.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002072_20251209_085632_343.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002072_20251209_085632_343.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002100_20251209_085632_364.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"2n2tktmhf9b\", \"x\": 701.36, \"y\": 671.18, \"label\": \"streetVendor_catering\", \"width\": 367.3, \"height\": 408.82, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002100_20251209_085632_364.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002128_20251209_085632_382.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"s2g8x8s07j9\", \"x\": 707.15, \"y\": 672.61, \"label\": \"streetVendor_catering\", \"width\": 355.01, \"height\": 407.39, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002128_20251209_085632_382.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002156_20251209_085632_397.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"uck4gdw9i7x\", \"x\": 712.73, \"y\": 674.91, \"label\": \"streetVendor_catering\", \"width\": 351.17, \"height\": 405.09, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002156_20251209_085632_397.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002184_20251209_085632_412.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002184_20251209_085632_412.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002212_20251209_085632_427.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002212_20251209_085632_427.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002240_20251209_085632_441.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002240_20251209_085632_441.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002268_20251209_085632_456.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002268_20251209_085632_456.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002296_20251209_085632_471.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002296_20251209_085632_471.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002324_20251209_085632_485.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"1l80hb9di0p\", \"x\": 718.98, \"y\": 683.56, \"label\": \"streetVendor_catering\", \"width\": 327.23, \"height\": 210.03, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002324_20251209_085632_485.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002352_20251209_085632_500.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002352_20251209_085632_500.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002380_20251209_085632_514.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002380_20251209_085632_514.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002408_20251209_085632_535.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002408_20251209_085632_535.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002436_20251209_085632_551.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002436_20251209_085632_551.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002464_20251209_085632_566.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002464_20251209_085632_566.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002492_20251209_085632_581.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002492_20251209_085632_581.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002520_20251209_085632_596.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002520_20251209_085632_596.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002548_20251209_085632_610.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002548_20251209_085632_610.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002576_20251209_085632_625.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002576_20251209_085632_625.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002604_20251209_085632_639.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002604_20251209_085632_639.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002632_20251209_085632_654.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002632_20251209_085632_654.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002660_20251209_085632_668.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"jmne1by4i9k\", \"x\": 723.98, \"y\": 680.78, \"label\": \"streetVendor_catering\", \"width\": 331.93, \"height\": 229.69, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002660_20251209_085632_668.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002688_20251209_085632_683.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"8544rsqbo0r\", \"x\": 724.0, \"y\": 681.34, \"label\": \"streetVendor_catering\", \"width\": 332.0, \"height\": 234.53, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002688_20251209_085632_683.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002716_20251209_085632_700.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"wszqtvooz9h\", \"x\": 726.73, \"y\": 683.19, \"label\": \"streetVendor_catering\", \"width\": 334.42, \"height\": 215.65, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002716_20251209_085632_700.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002744_20251209_085632_715.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"z52dv24sc9n\", \"x\": 726.08, \"y\": 679.81, \"label\": \"streetVendor_catering\", \"width\": 331.47, \"height\": 282.29, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002744_20251209_085632_715.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002772_20251209_085632_731.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"lyvry74z0n7\", \"x\": 717.65, \"y\": 678.56, \"label\": \"streetVendor_catering\", \"width\": 342.58, \"height\": 215.33, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002772_20251209_085632_731.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002800_20251209_085632_745.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"70hdckc3282\", \"x\": 702.29, \"y\": 670.54, \"label\": \"streetVendor_catering\", \"width\": 373.58, \"height\": 393.62, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002800_20251209_085632_745.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002828_20251209_085632_760.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"9e49oepwv37\", \"x\": 716.72, \"y\": 679.34, \"label\": \"streetVendor_catering\", \"width\": 336.39, \"height\": 253.37, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002828_20251209_085632_760.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002856_20251209_085632_774.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002856_20251209_085632_774.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002884_20251209_085632_789.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"tnr1f1low4h\", \"x\": 731.4, \"y\": 681.83, \"label\": \"streetVendor_catering\", \"width\": 319.18, \"height\": 221.11, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002884_20251209_085632_789.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002912_20251209_085632_803.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002912_20251209_085632_803.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002940_20251209_085632_818.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"hpl8j0tcaw7\", \"x\": 733.66, \"y\": 684.24, \"label\": \"streetVendor_catering\", \"width\": 313.53, \"height\": 199.96, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002940_20251209_085632_818.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002968_20251209_085632_833.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002968_20251209_085632_833.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00002996_20251209_085632_847.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00002996_20251209_085632_847.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00003024_20251209_085632_867.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"29wghg78eqk\", \"x\": 727.09, \"y\": 681.31, \"label\": \"streetVendor_catering\", \"width\": 321.5, \"height\": 219.11, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00003024_20251209_085632_867.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00003052_20251209_085632_882.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"qzo2trzx4ce\", \"x\": 717.73, \"y\": 683.73, \"label\": \"streetVendor_catering\", \"width\": 329.11, \"height\": 204.78, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00003052_20251209_085632_882.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00003080_20251209_085632_897.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"f32tgi7bj3n\", \"x\": 719.33, \"y\": 683.77, \"label\": \"streetVendor_catering\", \"width\": 326.58, \"height\": 212.12, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00003080_20251209_085632_897.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00003108_20251209_085632_911.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"mriuzaczjlx\", \"x\": 729.18, \"y\": 682.08, \"label\": \"streetVendor_catering\", \"width\": 317.19, \"height\": 226.93, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00003108_20251209_085632_911.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00003136_20251209_085632_926.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00003136_20251209_085632_926.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00003164_20251209_085632_941.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00003164_20251209_085632_941.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00003192_20251209_085632_955.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00003192_20251209_085632_955.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00003220_20251209_085632_969.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00003220_20251209_085632_969.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00003248_20251209_085632_984.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00003248_20251209_085632_984.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085631_175_00003276_20251209_085632_999.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085631_175_00003276_20251209_085632_999.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000028_20251209_085633_101.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000028_20251209_085633_101.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000056_20251209_085633_133.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000056_20251209_085633_133.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000252_20251209_085633_356.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000252_20251209_085633_356.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000280_20251209_085633_393.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000280_20251209_085633_393.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000308_20251209_085633_426.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000308_20251209_085633_426.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000336_20251209_085633_459.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000336_20251209_085633_459.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000364_20251209_085633_507.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000364_20251209_085633_507.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000392_20251209_085633_542.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000392_20251209_085633_542.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000420_20251209_085633_580.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000420_20251209_085633_580.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000448_20251209_085633_615.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000448_20251209_085633_615.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000476_20251209_085633_650.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000476_20251209_085633_650.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000504_20251209_085633_689.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000504_20251209_085633_689.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000532_20251209_085633_722.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000532_20251209_085633_722.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000560_20251209_085633_756.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000560_20251209_085633_756.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000588_20251209_085633_792.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000588_20251209_085633_792.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000616_20251209_085633_831.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000616_20251209_085633_831.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000644_20251209_085633_864.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000644_20251209_085633_864.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000672_20251209_085633_902.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000672_20251209_085633_902.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000700_20251209_085633_935.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000700_20251209_085633_935.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000728_20251209_085633_980.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000728_20251209_085633_980.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000756_20251209_085634_014.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000756_20251209_085634_014.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000784_20251209_085634_048.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000784_20251209_085634_048.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000812_20251209_085634_083.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000812_20251209_085634_083.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000840_20251209_085634_126.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000840_20251209_085634_126.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000868_20251209_085634_160.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000868_20251209_085634_160.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000896_20251209_085634_197.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000896_20251209_085634_197.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000924_20251209_085634_231.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000924_20251209_085634_231.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000952_20251209_085634_266.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000952_20251209_085634_266.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00000980_20251209_085634_304.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00000980_20251209_085634_304.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001008_20251209_085634_339.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001008_20251209_085634_339.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001036_20251209_085634_373.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001036_20251209_085634_373.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001064_20251209_085634_406.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001064_20251209_085634_406.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001092_20251209_085634_448.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001092_20251209_085634_448.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001120_20251209_085634_481.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001120_20251209_085634_481.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001148_20251209_085634_514.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001148_20251209_085634_514.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001176_20251209_085634_547.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001176_20251209_085634_547.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001204_20251209_085634_589.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001204_20251209_085634_589.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001232_20251209_085634_623.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001232_20251209_085634_623.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001260_20251209_085634_658.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001260_20251209_085634_658.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001344_20251209_085634_773.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001344_20251209_085634_773.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001372_20251209_085634_808.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001372_20251209_085634_808.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001400_20251209_085634_844.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001400_20251209_085634_844.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001428_20251209_085634_879.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001428_20251209_085634_879.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001456_20251209_085634_919.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001456_20251209_085634_919.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001484_20251209_085634_953.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001484_20251209_085634_953.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001512_20251209_085634_990.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001512_20251209_085634_990.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001540_20251209_085635_023.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001540_20251209_085635_023.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001568_20251209_085635_070.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001568_20251209_085635_070.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001596_20251209_085635_104.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001596_20251209_085635_104.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001624_20251209_085635_137.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001624_20251209_085635_137.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001652_20251209_085635_170.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001652_20251209_085635_170.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001680_20251209_085635_217.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001680_20251209_085635_217.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001708_20251209_085635_251.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001708_20251209_085635_251.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085633_031_00001736_20251209_085635_284.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085633_031_00001736_20251209_085635_284.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000056_20251209_085635_563.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000056_20251209_085635_563.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000084_20251209_085635_571.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000084_20251209_085635_571.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000112_20251209_085635_579.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000112_20251209_085635_579.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000140_20251209_085635_588.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000140_20251209_085635_588.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000168_20251209_085635_596.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000168_20251209_085635_596.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000196_20251209_085635_605.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000196_20251209_085635_605.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000224_20251209_085635_613.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000224_20251209_085635_613.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000252_20251209_085635_622.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000252_20251209_085635_622.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000280_20251209_085635_632.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000280_20251209_085635_632.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000308_20251209_085635_644.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000308_20251209_085635_644.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000336_20251209_085635_653.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000336_20251209_085635_653.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000364_20251209_085635_662.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000364_20251209_085635_662.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000392_20251209_085635_671.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000392_20251209_085635_671.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000420_20251209_085635_679.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000420_20251209_085635_679.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000448_20251209_085635_688.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000448_20251209_085635_688.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000476_20251209_085635_697.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000476_20251209_085635_697.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000504_20251209_085635_705.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000504_20251209_085635_705.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000532_20251209_085635_713.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000532_20251209_085635_713.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000560_20251209_085635_722.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000560_20251209_085635_722.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000588_20251209_085635_730.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000588_20251209_085635_730.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000616_20251209_085635_740.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000616_20251209_085635_740.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000644_20251209_085635_748.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000644_20251209_085635_748.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000672_20251209_085635_757.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000672_20251209_085635_757.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000700_20251209_085635_766.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000700_20251209_085635_766.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000728_20251209_085635_774.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000728_20251209_085635_774.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000756_20251209_085635_782.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000756_20251209_085635_782.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000784_20251209_085635_791.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000784_20251209_085635_791.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000812_20251209_085635_799.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000812_20251209_085635_799.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000840_20251209_085635_808.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000840_20251209_085635_808.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000868_20251209_085635_816.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000868_20251209_085635_816.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000896_20251209_085635_825.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000896_20251209_085635_825.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000924_20251209_085635_834.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000924_20251209_085635_834.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00000952_20251209_085635_843.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00000952_20251209_085635_843.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001064_20251209_085635_875.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001064_20251209_085635_875.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001092_20251209_085635_883.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001092_20251209_085635_883.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001120_20251209_085635_892.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001120_20251209_085635_892.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001148_20251209_085635_900.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001148_20251209_085635_900.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001176_20251209_085635_909.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001176_20251209_085635_909.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001204_20251209_085635_921.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001204_20251209_085635_921.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001232_20251209_085635_931.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001232_20251209_085635_931.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001260_20251209_085635_940.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001260_20251209_085635_940.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001288_20251209_085635_948.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001288_20251209_085635_948.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001316_20251209_085635_957.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001316_20251209_085635_957.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001344_20251209_085635_966.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001344_20251209_085635_966.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001372_20251209_085635_974.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001372_20251209_085635_974.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001400_20251209_085635_983.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001400_20251209_085635_983.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001428_20251209_085635_992.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001428_20251209_085635_992.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001456_20251209_085636_000.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001456_20251209_085636_000.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001484_20251209_085636_009.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001484_20251209_085636_009.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001512_20251209_085636_018.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001512_20251209_085636_018.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001540_20251209_085636_027.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001540_20251209_085636_027.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001568_20251209_085636_035.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001568_20251209_085636_035.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001596_20251209_085636_043.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001596_20251209_085636_043.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001624_20251209_085636_052.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001624_20251209_085636_052.jpg"
+  },
+  {
+    "fileName": "zhandao_20251209_085635_533_00001652_20251209_085636_060.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandao_20251209_085635_533_00001652_20251209_085636_060.jpg"
+  },
+  {
+    "fileName": "zhandaoV10117.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10117.jpg"
+  },
+  {
+    "fileName": "zhandaoV10118.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10118.jpg"
+  },
+  {
+    "fileName": "zhandaoV10120.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10120.jpg"
+  },
+  {
+    "fileName": "zhandaoV10121.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10121.jpg"
+  },
+  {
+    "fileName": "zhandaoV10122.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10122.jpg"
+  },
+  {
+    "fileName": "zhandaoV10123.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10123.jpg"
+  },
+  {
+    "fileName": "zhandaoV10124.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10124.jpg"
+  },
+  {
+    "fileName": "zhandaoV10125.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10125.jpg"
+  },
+  {
+    "fileName": "zhandaoV10126.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10126.jpg"
+  },
+  {
+    "fileName": "zhandaoV10127.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10127.jpg"
+  },
+  {
+    "fileName": "zhandaoV10128.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10128.jpg"
+  },
+  {
+    "fileName": "zhandaoV10129.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10129.jpg"
+  },
+  {
+    "fileName": "zhandaoV10130.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10130.jpg"
+  },
+  {
+    "fileName": "zhandaoV10131.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10131.jpg"
+  },
+  {
+    "fileName": "zhandaoV10132.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10132.jpg"
+  },
+  {
+    "fileName": "zhandaoV10133.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10133.jpg"
+  },
+  {
+    "fileName": "zhandaoV10134.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10134.jpg"
+  },
+  {
+    "fileName": "zhandaoV10136.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10136.jpg"
+  },
+  {
+    "fileName": "zhandaoV10137.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10137.jpg"
+  },
+  {
+    "fileName": "zhandaoV10138.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10138.jpg"
+  },
+  {
+    "fileName": "zhandaoV10139.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10139.jpg"
+  },
+  {
+    "fileName": "zhandaoV10140.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10140.jpg"
+  },
+  {
+    "fileName": "zhandaoV10141.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10141.jpg"
+  },
+  {
+    "fileName": "zhandaoV10142.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10142.jpg"
+  },
+  {
+    "fileName": "zhandaoV10143.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10143.jpg"
+  },
+  {
+    "fileName": "zhandaoV10144.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10144.jpg"
+  },
+  {
+    "fileName": "zhandaoV10145.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10145.jpg"
+  },
+  {
+    "fileName": "zhandaoV10146.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10146.jpg"
+  },
+  {
+    "fileName": "zhandaoV10147.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10147.jpg"
+  },
+  {
+    "fileName": "zhandaoV10148.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10148.jpg"
+  },
+  {
+    "fileName": "zhandaoV10149.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10149.jpg"
+  },
+  {
+    "fileName": "zhandaoV10150.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10150.jpg"
+  },
+  {
+    "fileName": "zhandaoV10151.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10151.jpg"
+  },
+  {
+    "fileName": "zhandaoV10152.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10152.jpg"
+  },
+  {
+    "fileName": "zhandaoV10153.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10153.jpg"
+  },
+  {
+    "fileName": "zhandaoV10154.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10154.jpg"
+  },
+  {
+    "fileName": "zhandaoV10155.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10155.jpg"
+  },
+  {
+    "fileName": "zhandaoV10156.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10156.jpg"
+  },
+  {
+    "fileName": "zhandaoV10157.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10157.jpg"
+  },
+  {
+    "fileName": "zhandaoV10158.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10158.jpg"
+  },
+  {
+    "fileName": "zhandaoV10159.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10159.jpg"
+  },
+  {
+    "fileName": "zhandaoV10160.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10160.jpg"
+  },
+  {
+    "fileName": "zhandaoV10161.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10161.jpg"
+  },
+  {
+    "fileName": "zhandaoV10162.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10162.jpg"
+  },
+  {
+    "fileName": "zhandaoV10163.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10163.jpg"
+  },
+  {
+    "fileName": "zhandaoV10164.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10164.jpg"
+  },
+  {
+    "fileName": "zhandaoV10165.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10165.jpg"
+  },
+  {
+    "fileName": "zhandaoV10166.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10166.jpg"
+  },
+  {
+    "fileName": "zhandaoV10167.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10167.jpg"
+  },
+  {
+    "fileName": "zhandaoV10168.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10168.jpg"
+  },
+  {
+    "fileName": "zhandaoV10169.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10169.jpg"
+  },
+  {
+    "fileName": "zhandaoV10170.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10170.jpg"
+  },
+  {
+    "fileName": "zhandaoV10171.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10171.jpg"
+  },
+  {
+    "fileName": "zhandaoV10172.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10172.jpg"
+  },
+  {
+    "fileName": "zhandaoV10173.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10173.jpg"
+  },
+  {
+    "fileName": "zhandaoV10174.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10174.jpg"
+  },
+  {
+    "fileName": "zhandaoV10175.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10175.jpg"
+  },
+  {
+    "fileName": "zhandaoV10176.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10176.jpg"
+  },
+  {
+    "fileName": "zhandaoV10177.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10177.jpg"
+  },
+  {
+    "fileName": "zhandaoV10178.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10178.jpg"
+  },
+  {
+    "fileName": "zhandaoV10179.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10179.jpg"
+  },
+  {
+    "fileName": "zhandaoV10180.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10180.jpg"
+  },
+  {
+    "fileName": "zhandaoV10181.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10181.jpg"
+  },
+  {
+    "fileName": "zhandaoV10182.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10182.jpg"
+  },
+  {
+    "fileName": "zhandaoV10183.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10183.jpg"
+  },
+  {
+    "fileName": "zhandaoV10184.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10184.jpg"
+  },
+  {
+    "fileName": "zhandaoV10185.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10185.jpg"
+  },
+  {
+    "fileName": "zhandaoV10186.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10186.jpg"
+  },
+  {
+    "fileName": "zhandaoV10187.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10187.jpg"
+  },
+  {
+    "fileName": "zhandaoV10188.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10188.jpg"
+  },
+  {
+    "fileName": "zhandaoV10189.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10189.jpg"
+  },
+  {
+    "fileName": "zhandaoV10190.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10190.jpg"
+  },
+  {
+    "fileName": "zhandaoV10191.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10191.jpg"
+  },
+  {
+    "fileName": "zhandaoV10192.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10192.jpg"
+  },
+  {
+    "fileName": "zhandaoV10193.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10193.jpg"
+  },
+  {
+    "fileName": "zhandaoV10194.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10194.jpg"
+  },
+  {
+    "fileName": "zhandaoV10195.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10195.jpg"
+  },
+  {
+    "fileName": "zhandaoV10196.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10196.jpg"
+  },
+  {
+    "fileName": "zhandaoV10197.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10197.jpg"
+  },
+  {
+    "fileName": "zhandaoV10198.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10198.jpg"
+  },
+  {
+    "fileName": "zhandaoV10199.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10199.jpg"
+  },
+  {
+    "fileName": "zhandaoV10200.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10200.jpg"
+  },
+  {
+    "fileName": "zhandaoV10201.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10201.jpg"
+  },
+  {
+    "fileName": "zhandaoV10202.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10202.jpg"
+  },
+  {
+    "fileName": "zhandaoV10203.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10203.jpg"
+  },
+  {
+    "fileName": "zhandaoV10204.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10204.jpg"
+  },
+  {
+    "fileName": "zhandaoV10205.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10205.jpg"
+  },
+  {
+    "fileName": "zhandaoV10207.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10207.jpg"
+  },
+  {
+    "fileName": "zhandaoV10208.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10208.jpg"
+  },
+  {
+    "fileName": "zhandaoV10209.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10209.jpg"
+  },
+  {
+    "fileName": "zhandaoV10210.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10210.jpg"
+  },
+  {
+    "fileName": "zhandaoV10211.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10211.jpg"
+  },
+  {
+    "fileName": "zhandaoV10212.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10212.jpg"
+  },
+  {
+    "fileName": "zhandaoV10213.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10213.jpg"
+  },
+  {
+    "fileName": "zhandaoV10214.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10214.jpg"
+  },
+  {
+    "fileName": "zhandaoV10215.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10215.jpg"
+  },
+  {
+    "fileName": "zhandaoV10217.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10217.jpg"
+  },
+  {
+    "fileName": "zhandaoV10218.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10218.jpg"
+  },
+  {
+    "fileName": "zhandaoV10219.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"1sys3iaj3yp\", \"x\": 1167.32, \"y\": 415.29, \"label\": \"streetVendor_catering\", \"width\": 125.98, \"height\": 126.74, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10219.jpg"
+  },
+  {
+    "fileName": "zhandaoV10220.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10220.jpg"
+  },
+  {
+    "fileName": "zhandaoV10221.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10221.jpg"
+  },
+  {
+    "fileName": "zhandaoV10222.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10222.jpg"
+  },
+  {
+    "fileName": "zhandaoV10224.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10224.jpg"
+  },
+  {
+    "fileName": "zhandaoV10225.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10225.jpg"
+  },
+  {
+    "fileName": "zhandaoV10226.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10226.jpg"
+  },
+  {
+    "fileName": "zhandaoV10227.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10227.jpg"
+  },
+  {
+    "fileName": "zhandaoV10228.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10228.jpg"
+  },
+  {
+    "fileName": "zhandaoV10229.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10229.jpg"
+  },
+  {
+    "fileName": "zhandaoV10230.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10230.jpg"
+  },
+  {
+    "fileName": "zhandaoV10231.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10231.jpg"
+  },
+  {
+    "fileName": "zhandaoV10232.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10232.jpg"
+  },
+  {
+    "fileName": "zhandaoV10233.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10233.jpg"
+  },
+  {
+    "fileName": "zhandaoV10234.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10234.jpg"
+  },
+  {
+    "fileName": "zhandaoV10235.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10235.jpg"
+  },
+  {
+    "fileName": "zhandaoV10236.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10236.jpg"
+  },
+  {
+    "fileName": "zhandaoV10238.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10238.jpg"
+  },
+  {
+    "fileName": "zhandaoV10239.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10239.jpg"
+  },
+  {
+    "fileName": "zhandaoV10240.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10240.jpg"
+  },
+  {
+    "fileName": "zhandaoV10241.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": [{\"id\": \"fadud49ylwi\", \"x\": 1180.16, \"y\": 429.18, \"label\": \"streetVendor_catering\", \"width\": 118.98, \"height\": 119.37, \"order\": 1, \"attributes\": {}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10241.jpg"
+  },
+  {
+    "fileName": "zhandaoV10242.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10242.jpg"
+  },
+  {
+    "fileName": "zhandaoV10243.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10243.jpg"
+  },
+  {
+    "fileName": "zhandaoV10245.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10245.jpg"
+  },
+  {
+    "fileName": "zhandaoV10246.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10246.jpg"
+  },
+  {
+    "fileName": "zhandaoV10248.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10248.jpg"
+  },
+  {
+    "fileName": "zhandaoV10249.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10249.jpg"
+  },
+  {
+    "fileName": "zhandaoV10250.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10250.jpg"
+  },
+  {
+    "fileName": "zhandaoV10251.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10251.jpg"
+  },
+  {
+    "fileName": "zhandaoV10252.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10252.jpg"
+  },
+  {
+    "fileName": "zhandaoV10253.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10253.jpg"
+  },
+  {
+    "fileName": "zhandaoV10260.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10260.jpg"
+  },
+  {
+    "fileName": "zhandaoV10261.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10261.jpg"
+  },
+  {
+    "fileName": "zhandaoV10262.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10262.jpg"
+  },
+  {
+    "fileName": "zhandaoV10263.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10263.jpg"
+  },
+  {
+    "fileName": "zhandaoV10264.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10264.jpg"
+  },
+  {
+    "fileName": "zhandaoV10265.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10265.jpg"
+  },
+  {
+    "fileName": "zhandaoV10266.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10266.jpg"
+  },
+  {
+    "fileName": "zhandaoV10267.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10267.jpg"
+  },
+  {
+    "fileName": "zhandaoV10268.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10268.jpg"
+  },
+  {
+    "fileName": "zhandaoV10269.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10269.jpg"
+  },
+  {
+    "fileName": "zhandaoV10270.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10270.jpg"
+  },
+  {
+    "fileName": "zhandaoV10271.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10271.jpg"
+  },
+  {
+    "fileName": "zhandaoV10272.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10272.jpg"
+  },
+  {
+    "fileName": "zhandaoV10273.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10273.jpg"
+  },
+  {
+    "fileName": "zhandaoV10274.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10274.jpg"
+  },
+  {
+    "fileName": "zhandaoV10275.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10275.jpg"
+  },
+  {
+    "fileName": "zhandaoV10276.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10276.jpg"
+  },
+  {
+    "fileName": "zhandaoV10277.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10277.jpg"
+  },
+  {
+    "fileName": "zhandaoV10278.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10278.jpg"
+  },
+  {
+    "fileName": "zhandaoV10279.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10279.jpg"
+  },
+  {
+    "fileName": "zhandaoV10280.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10280.jpg"
+  },
+  {
+    "fileName": "zhandaoV10281.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10281.jpg"
+  },
+  {
+    "fileName": "zhandaoV10282.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10282.jpg"
+  },
+  {
+    "fileName": "zhandaoV10283.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10283.jpg"
+  },
+  {
+    "fileName": "zhandaoV10284.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10284.jpg"
+  },
+  {
+    "fileName": "zhandaoV10285.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10285.jpg"
+  },
+  {
+    "fileName": "zhandaoV10286.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10286.jpg"
+  },
+  {
+    "fileName": "zhandaoV10287.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10287.jpg"
+  },
+  {
+    "fileName": "zhandaoV10289.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10289.jpg"
+  },
+  {
+    "fileName": "zhandaoV10290.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10290.jpg"
+  },
+  {
+    "fileName": "zhandaoV10291.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10291.jpg"
+  },
+  {
+    "fileName": "zhandaoV10293.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10293.jpg"
+  },
+  {
+    "fileName": "zhandaoV10296.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10296.jpg"
+  },
+  {
+    "fileName": "zhandaoV10298.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10298.jpg"
+  },
+  {
+    "fileName": "zhandaoV10305.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/1/images_only/zhandaoV10305.jpg"
+  }
+]

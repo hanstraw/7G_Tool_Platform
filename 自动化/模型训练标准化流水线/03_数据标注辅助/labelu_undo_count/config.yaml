@@ -1,0 +1,35 @@
+# 下面为必须修改的配置项
+# LabelU 服务地址，改成实际访问地址
+base_url: "http://113.141.72.253:38000"
+
+# 从管理员获取的 token，只填 token 本身，不要带 Bearer 前缀
+token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTIsInVzZXJuYW1lIjoiZGVuZ2d1b2p1bkBnbWFpbC5jb20iLCJleHAiOjE3NzY5MjYyMjl9.yGtFInDyKWhwEVp9EEyvI1Y78j_16rQVlhoqF23IodM"
+
+target:
+  # 要统计的任务 ID
+  task_id: 148
+  finished_states:
+    # 以下状态会被视为“已完成”，其余状态都会统计为未完成
+    - "DONE"
+    - "SKIPPED"
+    - "SKIP"
+  zero_label_states:
+    # 这些状态即使属于已完成，只要标签数量为 0，也会纳入检索
+    - "DONE"
+
+# ======================== 下方配置正常情况下无需修改 =========================
+request:
+  # 展示页码时按每页多少条来计算
+  page_size: 10
+  # 每次请求之间等待多少秒，避免请求过快
+  interval_seconds: 0.05
+  # 查询接口超时时间，单位秒
+  timeout_seconds: 15
+  # 请求失败后最多自动重试几次
+  max_retries: 2
+  # 是否校验 HTTPS 证书，使用自签证书时改为 false
+  verify_ssl: false
+
+output:
+  # CSV 输出目录
+  dir: "outputs"

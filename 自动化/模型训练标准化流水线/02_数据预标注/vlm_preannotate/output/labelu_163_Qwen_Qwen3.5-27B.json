@@ -1,0 +1,14 @@
+[
+  {
+    "fileName": "video_0001_000001_000010s.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}, {\"toolName\": \"tagTool\", \"result\": [{\"id\": \"1prfwpywtaq\", \"type\": \"tag\", \"value\": {\"sceneType\": [\"residentialRoad\"]}}, {\"id\": \"xfm4xtq5oqi\", \"type\": \"tag\", \"value\": {\"lighting\": [\"normalDaylight\"]}}, {\"id\": \"5ccj1a7pbn4\", \"type\": \"tag\", \"value\": {\"weather\": [\"cloudy\"]}}, {\"id\": \"58px7t2ssun\", \"type\": \"tag\", \"value\": {\"quality\": [\"clear\"]}}, {\"id\": \"9wozzwevtv3\", \"type\": \"tag\", \"value\": {\"angle\": [\"obliqueView\"]}}, {\"id\": \"qgy1v2rhos7\", \"type\": \"tag\", \"value\": {\"source\": [\"cameraCapture\"]}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/163/images_only/video_0001_000001_000010s.jpg"
+  },
+  {
+    "fileName": "video_0001_000000_000000s.jpg",
+    "result": "{\"width\": 1920, \"height\": 1080, \"rotate\": 0, \"annotations\": [{\"toolName\": \"rectTool\", \"result\": []}, {\"toolName\": \"tagTool\", \"result\": [{\"id\": \"kagkh11m31t\", \"type\": \"tag\", \"value\": {\"sceneType\": [\"residentialRoad\"]}}, {\"id\": \"7ff2d0pq0v8\", \"type\": \"tag\", \"value\": {\"lighting\": [\"normalDaylight\"]}}, {\"id\": \"h9wu1vv7oei\", \"type\": \"tag\", \"value\": {\"weather\": [\"cloudy\"]}}, {\"id\": \"9fhi8zafya5\", \"type\": \"tag\", \"value\": {\"quality\": [\"clear\"]}}, {\"id\": \"5455a5lx7lb\", \"type\": \"tag\", \"value\": {\"angle\": [\"obliqueView\"]}}, {\"id\": \"ex8s0a5p52g\", \"type\": \"tag\", \"value\": {\"source\": [\"cameraCapture\"]}}]}]}",
+    "folder": "/root/.local/share/labelu/media",
+    "url": "/api/v1/tasks/attachment/upload/163/images_only/video_0001_000000_000000s.jpg"
+  }
+]

@@ -1,0 +1,27 @@
+# LabelU 服务地址
+base_url: "http://113.141.72.253:38000"
+
+# 建议不要写在配置里；优先使用环境变量 LABELU_TOKEN 或命令行 --token
+token: ""
+
+target:
+  # 要下载图片的任务 ID
+  task_id: 167
+  # 下载到哪个目录
+  output_dir: "downloads/task_167_images"
+
+request:
+  # 样本列表页码；page_end 留空表示下载全部页面
+  page_start: 0
+  page_end:
+  page_size: 10
+  interval_seconds: 0.03
+  timeout_seconds: 30
+  max_retries: 2
+  verify_ssl: false
+
+download:
+  # true 时已存在的文件会跳过
+  skip_existing: true
+  # 文件名冲突时加 sample_id 前缀，避免覆盖
+  prefix_sample_id_on_duplicate: true

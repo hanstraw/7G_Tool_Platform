@@ -1,0 +1,184 @@
+# global_tags_only 只做全局标签；boxes_and_tags 拉框+全局标签
+mode: global_tags_only  
+paths:
+  # 预标注的图片目录, 会递归读取 jpg/png/jpeg/webp/bmp。
+  image_dir: ../images
+
+  # 输出 JSON 路径。留空时自动生成 output/labelu_任务id_模型名.json。
+  output_json:
+
+  # 断点续跑文件。已成功的图片下次会自动跳过。
+  checkpoint_jsonl: output/checkpoint.jsonl
+
+model:
+  # 示例: https://openrouter.ai/api/v1
+  base_url: https://ark.cn-beijing.volces.com/api/v3
+  api_key: 
+  model: 
+
+  
+  temperature: 0.0
+  timeout_seconds: 300
+  retries: 2
+  response_format_json: true
+
+  # 是否把模型输出流式打印到终端。默认 false，终端更干净。
+  stream: false
+
+  # 关闭思考模式。不同平台字段不一样，所以这里同时保留几种常见写法。
+  # SiliconFlow/Qwen 类接口常用 enable_thinking: false。
+  enable_thinking: false
+
+  # 火山方舟/豆包常用 thinking.type: disabled。
+  thinking:
+    type: disabled
+
+  # 部分 OpenAI 兼容接口使用 reasoning.effort；minimal 不是完全关闭，只是最低思考强度。
+  reasoning:
+    effort: minimal
+
+  thinking_budget: 128
+  # 模型最多输出 token 数。拉框时需要大一些。
+  max_tokens: 1500
+  # 只做全局标签时的输出 token 上限，越小越快，也更不容易超时。
+  global_tags_max_tokens: 300
+
+  # 坐标模式：
+  # auto = 自动判断模型输出是 0-1、0-1000、还是像素坐标。
+  # relative_1000 = 强制按 0-1000 比例坐标转换。
+  # pixel = 强制按发送给模型的图片像素坐标转换。
+  coordinate_mode: auto
+
+  # 发送给模型看的图片尺寸和质量。
+  # 建议保持原图比例，例如 1920x1080 用 960x540。
+  # 只做全局标签推荐 960x540；拉框追求细节时再改成 1920x1080。
+  request_image:
+    width: 960
+    height: 540
+    quality: 75
+
+
+# 运行配置
+run:
+  # 限制只处理前 N 张。留空表示全部处理。
+  limit:
+
+  # 是否清空旧 checkpoint 重新跑。false 表示继续上次进度。
+  overwrite_checkpoint: false
+
+  # 并行数。遇到 429 Too Many Requests 就调小，例如 2 或 1。
+  parallel: 2
+
+  # 是否打印模型原始输出。默认 false。
+  show_model_output: false
+
+  # 单张失败后是否继续处理后面的图片。
+  continue_on_error: true
+
+  # 拉框模式下，每张图最多保留多少个框。
+  max_rects: 8
+
+  # 拉框模式下，低于这个置信度的框会被过滤。
+  min_confidence: 0.8
+
+# LabelU 导入相关配置
+labelu:
+  # LabelU 任务 ID, 预标注上传不影响。
+  task_id: 1
+
+  # 生成 url 时使用的上传子目录。
+  upload_subdir: images_only
+
+  # LabelU 服务端媒体目录，仅用于写入 JSON 的 folder 字段。
+  media_folder: /root/.local/share/labelu/media
+
+  # LabelU 结果里的目标图片尺寸。
+  width: 1920
+  height: 1080
+
+  # 图片旋转角度，一般保持 0。
+  rotate: 0
+
+# 拉框标签。只有 boxes_and_tags 模式会用到。
+rect_labels:
+  - value: streetVendor_vegetablet
+    name: vegetable street vendor
+  - value: streetVendor_catering
+    name: catering or food street vendor
+  - value: streetVendor_clother
+    name: clothing street vendor
+  - value: streetVendor_fruit
+    name: fruit street vendor
+  - value: streetVendor_other
+    name: other street vendor
+  - value: object_plasticbasket
+    name: plastic basket or crate
+  - value: object_basket
+    name: woven basket
+  - value: object_bucket
+    name: bucket
+  - value: object_cabinet
+    name: cabinet or freezer
+  - value: object_table
+    name: table
+  - value: object_chair
+    name: chair
+
+# 全局标签候选值。global_tags_only 和 boxes_and_tags 都会用到。
+tag_options:
+  # 场景类型
+  sceneType:
+    - urbanArterial
+    - residentialRoad
+    - backAlley
+    - parkSquare
+    - commercialStreet
+    - urbanVillage
+    - schoolArea
+    - constructionSite
+
+  # 光照
+  lighting:
+    - normalDaylight
+    - strongDaylight
+    - weakDaylight
+    - dusk
+    - nightWithLight
+    - nightNoLight
+    - backlight
+    - heavyShadow
+
+  # 天气
+  weather:
+    - sunny
+    - cloudy
+    - lightRain
+    - heavyRain
+    - foggy
+    - snowy
+    - dust
+
+  # 图片质量
+  quality:
+    - clear
+    - slightBlurry
+    - severeBlurry
+    - overexposed
+    - underexposed
+    - occluded
+    - motionBlur
+
+  # 拍摄角度
+  angle:
+    - eyeLevel
+    - topView
+    - lowAngle
+    - obliqueView
+    - aerialView
+
+  # 图片来源
+  source:
+    - cameraCapture
+    - manualShoot
+    - webCollect
+    - syntheticData

@@ -1,0 +1,2 @@
+﻿mode,task_id,source_inner_id,target_inner_id,target_sample_id,old_state,new_state,rect_count,tag_count,status,detail
+DRY-RUN,167,1,2,15038,DONE,DONE,5,6,DRY_RUN,

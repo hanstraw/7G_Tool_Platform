@@ -1,0 +1,47 @@
+task: detect
+mode: train
+data: ./data/dataset.yaml
+epochs: 200  # 延长训练轮次，适配多尺度收敛
+patience: 30
+batch: 4  # 多尺度训练显存占用高，适度降低
+imgsz: 1280  # 基础尺寸保留（保障小目标），通过多尺度覆盖大目标适配
+save: true
+save_period: 10
+device: '0'
+workers: 8  # 多尺度+增强，降低workers避免IO瓶颈
+pretrained: true  # 开启预训练，提升小目标特征学习能力
+optimizer: AdamW
+amp: true  # 开启混合精度，释放显存支撑多尺度
+cos_lr: true
+rect: false  # 关闭矩形训练，避免小目标被裁剪
+multi_scale: true  # 保留多尺度，适配不同大小目标
+dropout: 0.1  # 降低dropout，避免小目标特征丢失
+
+# 学习率微调：适配多尺度+预训练
+lr0: 0.0008
+lrf: 0.05
+momentum: 0.937
+weight_decay: 0.0003  # 降低权重衰减，保护小目标特征
+
+# 损失权重：强化小目标定位，平衡分类
+box: 5.5  # 上调定位权重，提升小目标框精度
+cls: 1.0  # 下调分类权重，减少大目标分类干扰
+dfl: 2.0  # 上调DFL，优化目标框边界（兼顾大小目标）
+
+# 数据增强：避免小目标被过度遮挡，适配大目标形变
+mosaic: 0.7  # 降低mosaic，减少小目标融合丢失
+mixup: 0.05  # 大幅降低mixup，避免小目标被遮挡
+cutmix: 0.05  # 大幅降低cutmix，保护小目标
+degrees: 3.0  # 降低旋转，避免大目标形变过度
+flipud: 0.0  # 关闭垂直翻转，减少无意义形变
+fliplr: 0.5  # 保留水平翻转
+hsv_h: 0.02
+hsv_s: 0.5  # 降低饱和度增强，避免大目标颜色特征丢失
+hsv_v: 0.3  # 降低明度增强，平衡大小目标视觉特征
+erasing: 0.2  # 降低擦除，避免小目标被擦除
+
+# 后处理：平衡大小目标检出
+nms: true
+iou: 0.45  # 下调NMS阈值，减少大目标遮挡导致的漏检
+conf: 0.25  # 下调置信度，提升小目标检出率
+max_det: 800  # 提升最大检测数，适配多尺度下的目标数量

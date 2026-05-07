@@ -1,0 +1,39 @@
+# LabelU 服务地址
+base_url: "http://113.141.72.253:38000"
+token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTMsInVzZXJuYW1lIjoiemhhbmd4aWFvQDdnLmNvbSIsImV4cCI6MTc3NzAzMjgxN30.JvtR6AYzwSvdZWeVr1M-ENPyXCksV22mFiR8_SUtduY"
+
+target:
+  # 要处理的任务 ID
+  task_id: 167
+
+  # 从这个 inner_id 对应样本复制工具结果
+  source_inner_id: 521
+
+  # 写入这个 inner_id 范围内的样本，包含起止值；如果包含来源，会自动跳过来源
+  target_inner_id_start: 521
+  target_inner_id_end: 529
+
+  # 默认 both；可选 both / rect / tag
+  mode: "both"
+
+  # 工具名，忽略大小写匹配
+  rect_tool_name: "recttool"
+  tag_tool_name: "tagtool"
+
+  # 复制时重新生成 result 里的 id，避免多个样本共用同一批 id
+  regenerate_rect_ids: true
+  regenerate_tag_ids: true
+
+request:
+  # 查找 inner_id 时从哪一页开始；留空会默认 0
+  page_start: 40
+  # 查找 inner_id 时到哪一页结束；留空表示一直查到找到目标或列表结束
+  page_end: 
+  page_size: 10
+  interval_seconds: 0.05
+  timeout_seconds: 15
+  max_retries: 2
+  verify_ssl: false
+
+output:
+  dir: "outputs"

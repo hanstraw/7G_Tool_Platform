@@ -4,6 +4,8 @@
 frontend/.codex
 .local/
 .archive/
+frontend/node_modules/
+frontend/dist/
 
 # Python cache
 __pycache__/

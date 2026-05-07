@@ -1,0 +1,72 @@
+# YOLOv11s 预标注配置
+# 使用本地 YOLOv11s 模型对图片进行拉框预标注，生成 LabelU 可导入的 JSON
+
+paths:
+  # 预标注的图片目录, 会递归读取 jpg/png/jpeg。
+  image_dir: ../data
+
+  # 输出 JSON 路径。留空时自动生成 output/labelu_yolo_任务id.json。
+  output_json:
+
+  # 断点续跑文件。已成功的图片下次会自动跳过。
+  checkpoint_jsonl: output/checkpoint.jsonl
+
+# YOLO 模型配置
+model:
+  # 模型权重文件路径（相对于本脚本目录）
+  weights: ../best0430.pt
+
+  # 推理置信度阈值，低于此值的检测框会被过滤
+  confidence: 0.2
+
+  # NMS IoU 阈值
+  iou: 0.5
+
+  # 推理图片尺寸（长边）
+  imgsz: 1920
+
+  # 使用设备: cpu, 0 (GPU), cuda:0 等
+  device: 0
+
+# 运行配置
+run:
+  # 限制只处理前 N 张。留空表示全部处理。
+  limit:
+
+  # 是否清空旧 checkpoint 重新跑。false 表示继续上次进度。
+  overwrite_checkpoint: false
+
+  # 每张图最多保留多少个框
+  max_rects: 20
+
+  # 低于这个置信度的框会被过滤（二次过滤，在模型 confidence 基础上）
+  min_confidence: 0.25
+
+# LabelU 导入相关配置
+labelu:
+  # LabelU 任务 ID
+  task_id: 1
+
+  # 生成 url 时使用的上传子目录
+  upload_subdir: images_only
+
+  # LabelU 服务端媒体目录，仅用于写入 JSON 的 folder 字段
+  media_folder: /root/.local/share/labelu/media
+
+  # 图片旋转角度，一般保持 0
+  rotate: 0
+
+# YOLO 模型的类别 ID 到 LabelU 标签的映射
+# 按照训练时 data.yaml 中 names 的顺序，索引从 0 开始
+# 请根据你的模型实际类别修改此映射
+class_mapping:
+  0: object_basket
+  1: object_bucket
+  2: object_cabinet
+  3: object_chair
+  4: object_plasticbasket
+  5: object_table
+  6: streetVendor_catering
+  7: streetVendor_fruit
+  8: streetVendor_other
+  9: streetVendor_vegetablet
